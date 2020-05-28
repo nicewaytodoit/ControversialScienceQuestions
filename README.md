@@ -4,6 +4,6 @@ As the name suggests Controversial Science Questions is collection of questions 
 
 These are just my personal questions, feel free to take them for your thesis if you want:
 
-- !["Factors of Cancer Creation"](/biological-factors-of-cancer-creating.md) - Examining heat variation in limited space as possible cause of cancer creation or promotion of its spreading
+- [Heat as a factor of Cancer Creation](/biological-factors-of-cancer-creating.md) - Examining heat variation in limited space as possible cause of cancer creation or promotion of its spreading
 
 
